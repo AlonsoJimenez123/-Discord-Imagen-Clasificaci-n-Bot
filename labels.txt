@@ -1,0 +1,3 @@
+0 Guitarra
+1 Bajo
+2 Piano
